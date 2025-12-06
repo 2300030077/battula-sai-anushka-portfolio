@@ -40,13 +40,7 @@ const Home = () => {
               className="text-5xl sm:text-6xl lg:text-7xl font-bold text-gray-900 leading-tight"
             >
               Battula{' '}
-              <span
-                className="bg-clip-text text-transparent font-bold"
-                style={{
-                  backgroundImage:
-                    "linear-gradient(90deg, #7b2ff7, #f107a3)",
-                }}
-              >
+              <span className="text-black font-bold">
                 Sai Anushka
               </span>
             </motion.h1>
